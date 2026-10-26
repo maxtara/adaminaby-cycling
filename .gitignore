@@ -1,0 +1,6 @@
+# Everything in this repo is published publicly, so only allow the site files.
+/*
+!/.gitignore
+!/.github/
+!/index.html
+!/gpx/
