@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="ADA1 trip planner" xmlns="http://www.topografix.com/GPX/1/1">
-  <metadata><name>Day 3: Adaminaby to Anglers Reach Caravan Park</name><desc>24.1 km, about 570 m up and 440 m down. Route from OpenStreetMap data via BRouter. Climbing figures from Strava. Elevation profile from the Geoscience Australia 1 second DEM (CC BY 4.0), smoothed.</desc></metadata>
+  <metadata><name>Day 3: Adaminaby to Anglers Reach Caravan Park</name><desc>24.1 km. Route from OpenStreetMap data via BRouter. Elevation data: Geoscience Australia 1 second DEM (CC BY 4.0).</desc></metadata>
   <wpt lat="-35.995790" lon="148.769425"><name>Alpine Tourist Park, Adaminaby</name></wpt>
   <wpt lat="-36.040480" lon="148.703020"><name>Old Adaminaby</name></wpt>
   <wpt lat="-36.047530" lon="148.668834"><name>Observation point</name></wpt>
   <wpt lat="-35.997584" lon="148.662005"><name>Anglers Reach Caravan Park</name></wpt>
-  <trk><name>Day 3: Adaminaby to Anglers Reach Caravan Park</name><desc>24.1 km, about 570 m up and 440 m down. Route from OpenStreetMap data via BRouter. Climbing figures from Strava. Elevation profile from the Geoscience Australia 1 second DEM (CC BY 4.0), smoothed.</desc><trkseg>
+  <trk><name>Day 3: Adaminaby to Anglers Reach Caravan Park</name><desc>24.1 km. Route from OpenStreetMap data via BRouter. Elevation data: Geoscience Australia 1 second DEM (CC BY 4.0).</desc><trkseg>
     <trkpt lat="-35.995665" lon="148.769884"><ele>1033.4</ele></trkpt>
     <trkpt lat="-35.995563" lon="148.769842"><ele>1033.3</ele></trkpt>
     <trkpt lat="-35.995461" lon="148.769801"><ele>1033.2</ele></trkpt>

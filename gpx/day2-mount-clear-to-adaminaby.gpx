@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="ADA1 trip planner" xmlns="http://www.topografix.com/GPX/1/1">
-  <metadata><name>Day 2: Mount Clear Campground to Adaminaby (Alpine Tourist Park)</name><desc>35.5 km, about 650 m up and 710 m down. Route from OpenStreetMap data via BRouter. Climbing figures from Strava. Elevation profile from the Geoscience Australia 1 second DEM (CC BY 4.0), smoothed.</desc></metadata>
+  <metadata><name>Day 2: Mount Clear Campground to Adaminaby (Alpine Tourist Park)</name><desc>35.5 km. Route from OpenStreetMap data via BRouter. Elevation data: Geoscience Australia 1 second DEM (CC BY 4.0).</desc></metadata>
   <wpt lat="-35.864906" lon="149.010926"><name>Mount Clear Campground</name></wpt>
   <wpt lat="-35.874688" lon="148.984891"><name>David Brayshaws Hut</name></wpt>
   <wpt lat="-35.922404" lon="148.949638"><name>ACT / NSW border</name></wpt>
   <wpt lat="-35.997330" lon="148.774610"><name>The Big Trout</name></wpt>
   <wpt lat="-35.995790" lon="148.769425"><name>Alpine Tourist Park, Adaminaby</name></wpt>
-  <trk><name>Day 2: Mount Clear Campground to Adaminaby (Alpine Tourist Park)</name><desc>35.5 km, about 650 m up and 710 m down. Route from OpenStreetMap data via BRouter. Climbing figures from Strava. Elevation profile from the Geoscience Australia 1 second DEM (CC BY 4.0), smoothed.</desc><trkseg>
+  <trk><name>Day 2: Mount Clear Campground to Adaminaby (Alpine Tourist Park)</name><desc>35.5 km. Route from OpenStreetMap data via BRouter. Elevation data: Geoscience Australia 1 second DEM (CC BY 4.0).</desc><trkseg>
     <trkpt lat="-35.865258" lon="149.010533"><ele>1092.1</ele></trkpt>
     <trkpt lat="-35.865278" lon="149.010561"><ele>1092.2</ele></trkpt>
     <trkpt lat="-35.865413" lon="149.010508"><ele>1092.9</ele></trkpt>
