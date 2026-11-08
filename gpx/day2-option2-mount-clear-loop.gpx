@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="ADA1 trip planner" xmlns="http://www.topografix.com/GPX/1/1">
-  <metadata><name>Day 2 option 2: Mount Clear loop</name><desc>35.0 km. WARNING: About 6.7 km of the Mount Clear Fire Trail (km 13 to 23) is on the NSW side of the border, outside the national park on private rural land. Check access before riding this option. Route from OpenStreetMap data via BRouter. Elevation data: Geoscience Australia 1 second DEM (CC BY 4.0).</desc></metadata>
+  <metadata><name>Day 2 option 2: Mount Clear loop</name><desc>35.0 km. Route from OpenStreetMap data via BRouter. Elevation data: Geoscience Australia 1 second DEM (CC BY 4.0).</desc></metadata>
   <wpt lat="-35.864906" lon="149.010926"><name>Mount Clear Campground</name></wpt>
   <wpt lat="-35.824038" lon="149.066012"><name>Toilets</name></wpt>
-  <wpt lat="-35.848230" lon="149.086630"><name>Private land section</name></wpt>
   <wpt lat="-35.876070" lon="149.064550"><name>Mount Clear</name></wpt>
-  <trk><name>Day 2 option 2: Mount Clear loop</name><desc>35.0 km. WARNING: About 6.7 km of the Mount Clear Fire Trail (km 13 to 23) is on the NSW side of the border, outside the national park on private rural land. Check access before riding this option. Route from OpenStreetMap data via BRouter. Elevation data: Geoscience Australia 1 second DEM (CC BY 4.0).</desc><trkseg>
+  <trk><name>Day 2 option 2: Mount Clear loop</name><desc>35.0 km. Route from OpenStreetMap data via BRouter. Elevation data: Geoscience Australia 1 second DEM (CC BY 4.0).</desc><trkseg>
     <trkpt lat="-35.865258" lon="149.010533"><ele>1092.1</ele></trkpt>
     <trkpt lat="-35.865278" lon="149.010560"><ele>1092.1</ele></trkpt>
     <trkpt lat="-35.865413" lon="149.010508"><ele>1091.9</ele></trkpt>
